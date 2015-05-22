@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item id="0" name="Hoe" description="Used to till soil." type="Tool" />
+  <Item id="1" name="Watering Can" description="Used to water plants." type="Tool" />
+  <Item id="2" name="Turnip Seeds" description="Plant them to grow turnips." type="Seeds" />
+  <Item id="3" name="Turnip" description="A fully grown turnip." type="Crops" />
+</ArrayOfItem>
